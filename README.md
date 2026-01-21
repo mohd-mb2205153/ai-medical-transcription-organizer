@@ -1,6 +1,6 @@
 <p align="start"><img src="medical.jpeg" alt="Alt text" width="300"/></p> 
 
-# Medical Transcription Analysis with LLM
+# Organizing Medical Transcriptions with LLM
 
 Automated extraction and ICD-10 code classification of clinical information from medical transcripts using OpenAI API.
 
